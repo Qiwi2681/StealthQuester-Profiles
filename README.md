@@ -12,4 +12,6 @@ Built to complete the following quests in every unique order:<br />
 	X Marks The Spot<br />
 	Ernest The Chicken<br />
 	Goblin Diplomacy<br />
-	Romeo And Juliet
+	Romeo And Juliet<br />
+	
+DO NOT EXTRACT ALL AT ONCE, PICK A FEW HUNDRED
