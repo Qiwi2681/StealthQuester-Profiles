@@ -4,7 +4,7 @@ Lots of profiles for the stealth quester script. Used for anti-cluster<br />
 Built to complete the following quests in every unique order:<br />
 	Doric's Quest<br />
 	Cook's Assistant<br />
-	Imp Catcher<br /><br />
+	Imp Catcher<br />
 	Pirate's Treasure<br />
 	Rune Mysteries<br />
 	The Restless Ghost<br />
